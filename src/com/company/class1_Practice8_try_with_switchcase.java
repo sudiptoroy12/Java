@@ -41,10 +41,10 @@ public class class1_Practice8_try_with_switchcase {
         Scanner i=new Scanner(System.in);
         while(true)
         {
-            System.out.println("choose 1 for withdraw");
-            System.out.println("choose 2 for check balance");
-            System.out.println("choose 3 for EXIT");
-            System.out.println("choose the operation you want to perform:");
+            System.out.println("Choose 1 for withdraw");
+            System.out.println("Choose 2 for check balance");
+            System.out.println("Choose 3 for EXIT");
+            System.out.println("Choose the operation you want to perform:");
             int s=i.nextInt();
             switch(s)
             {
