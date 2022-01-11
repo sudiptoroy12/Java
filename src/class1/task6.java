@@ -1,10 +1,10 @@
 //Write a program to check if the provided user credentials are valid during login...
 
-package com.company;
+package class1;
 
 import java.util.Scanner;
 
-public class class1_Practice6 {
+public class task6 {
     public static void main(String[] args) {
         String _username="sudipto";
         String _password="1234";

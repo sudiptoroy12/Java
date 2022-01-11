@@ -1,10 +1,11 @@
 //Write a program to sum of random numbers...
-package com.company;
-import java.util.*;
+
+package class1;
 
 import java.util.Random;
+import java.util.Scanner;
 
-public class class1_Practice7 {
+public class task7 {
     public static void main(String[] args) {
         Scanner i=new Scanner(System.in);
         Random random1=new Random();

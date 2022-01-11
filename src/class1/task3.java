@@ -1,10 +1,10 @@
 //Write a program that takes a year from user and print whether that year ia a leap year or not...
 
-package com.company;
+package class1;
 
 import java.util.Scanner;
 
-public class class1_Practice3 {
+public class task3 {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.println("Enter a year:");
@@ -16,4 +16,6 @@ public class class1_Practice3 {
 
 
     }
+
+
 }

@@ -1,10 +1,10 @@
 //Take three numbers from the user and print the greatest number...
 
-package com.company;
+package class1;
 
 import java.util.Scanner;
 
-public class class1_Practice2 {
+public class task2 {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.println("Input the 1st number:");

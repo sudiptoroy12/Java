@@ -1,11 +1,10 @@
-
-
 //Write a program to check balance and withdraw money from ATM booth using if else...
 
-package com.company;
+package class1;
+
 import java.util.Scanner;
 
-public class class1_Practice8 {
+public class task8 {
     public static void displayBalance(int balance)
     {
         System.out.println("balance:" +balance);

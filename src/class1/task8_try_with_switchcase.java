@@ -1,41 +1,10 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //Write a program to check balance and withdraw money from ATM booth using switch case...
 
-
-
-package com.company;
+package class1;
 
 import java.util.Scanner;
 
-public class class1_Practice8_try_with_switchcase {
+public class task8_try_with_switchcase {
     public static void main(String[] args) {
         int balance=15000;
         Scanner i=new Scanner(System.in);

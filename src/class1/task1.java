@@ -1,9 +1,9 @@
-package com.company;
+//Write a program to get a number from the user and print whether it is positive or negative...
+package class1;
 
 import java.util.Scanner;
 
-public class Main {
-
+public class task1 {
     public static void main(String[] args) {
         System.out.println("enter a number:");
         Scanner input=new Scanner(System.in);
@@ -17,9 +17,5 @@ public class Main {
         else{
             System.out.println("the number is negative.");
         }
-
-
-
-
     }
 }

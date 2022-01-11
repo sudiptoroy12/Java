@@ -1,10 +1,10 @@
 //Write a program to calculate CGPA and find grade...
 
-package com.company;
+package class1;
 
 import java.util.Scanner;
 
-public class class1_Practice5 {
+public class task5 {
     public static void main(String[] args) {
         Scanner i=new Scanner(System.in);
         System.out.println("Enter marks=");
